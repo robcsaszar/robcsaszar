@@ -17,6 +17,7 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-232754?logo=next.js&logoColor=000000)](https://nextjs.org)
 [![Node.js](https://img.shields.io/badge/-Node.js-232754?logo=node.js&logoColor=339933)](https://nodejs.org)
 [![Jekyll](https://img.shields.io/badge/-Jekyll-232754?logo=jekyll&logoColor=CC0000)](https://jekyllrb.com/)
+[![ASP.NET Razor](https://img.shields.io/badge/-ASP.NET_Razor-232754?logo=.net&logoColor=ffffff)]([https://gulpjs.com/](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c))
 [![GraphQL](https://img.shields.io/badge/-GraphQL-232754?logo=graphql&logoColor=E10098)](https://graphql.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-232754?logo=Prisma&logoColor=2D3748)](https://www.prisma.io/)
 [![Supabase](https://img.shields.io/badge/-Supabase-232754?logo=Supabase&logoColor=3ECF8E)](https://supabase.com/)
