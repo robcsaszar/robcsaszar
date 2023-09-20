@@ -62,7 +62,7 @@
 
 ### How to get in touch with me
 [![Gmail](https://img.shields.io/badge/Mail-robert+gh@nhg.design-232754?logo=gmail&logoColor=FFFFFF)](mailto:robert+gh@nhg.design)
-[![Discord](https://img.shields.io/badge/Discord-robcsaszar%230001-232754?logo=discord&logoColor=FFFFFF)](https://discord.com/users/robcsaszar)
+[![Discord](https://img.shields.io/badge/Discord-robcsaszar-232754?logo=discord&logoColor=FFFFFF)](https://discord.com/users/robcsaszar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robcsaszar-232754?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/robcsaszar/)
 
 ### What I just listened to
