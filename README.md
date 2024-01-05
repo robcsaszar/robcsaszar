@@ -1,6 +1,6 @@
 ![GitHub Banner](https://cdn.discordapp.com/attachments/873556020968980510/1059513334795354132/githubbanner.jpg)
 
-🧠 **I'm a creative professional, fullstack developer, frontend designer, and hobby chef.** </br>
+🧠 **I'm a creative professional, frontend designer, UI/UX designer, and hobby chef.** </br>
 🏡 **I'm at home in [Timișoara, Romania](https://ro.wikipedia.org/wiki/Timișoara).** </br>
 🖼️ **I'm freelancing under [NHG.design](https://nhg.design/).** </br>
 🔪 **I'm showing what I cook at [theSkullery](https://theskullery.net/).**
@@ -24,6 +24,7 @@
 [![jQuery](https://img.shields.io/badge/-jQuery-232754?logo=jQuery&logoColor=0769AD)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-232754?logo=Bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 [![gulp](https://img.shields.io/badge/-gulp-232754?logo=gulp&logoColor=CF4647)](https://gulpjs.com/)
+[![Astro](https://img.shields.io/badge/-Astro-1b1a42?logo=astro&logoColor=fff)](https://astro.build/)
 
 ### What I use
 [![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/)
@@ -42,6 +43,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=FFFFFF)](https://powerbi.microsoft.com/)
 [![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?logo=Namecheap&logoColor=FFFFFF)](https://www.namecheap.com/)
+[![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?logo=Obsidian&logoColor=FFFFFF)](https://www.obsidian.md/)
 
 ### What I practice
 🌿 Clean, simple code </br>
@@ -50,15 +52,15 @@
 🌿 Grammar is important </br>
 🌿 Tabs over spaces </br>
 
-### What I'm learning in **2023**
-🔹 **[Next.js](https://nextjs.org/)** </br>
+### What I'm learning in **2024**
 🔹 **[Astro](https://astro.build/)** </br>
-🔹 **[tRPC](https://trpc.io/)** </br>
+🔹 **[Next.js](https://nextjs.org/)** </br>
 🔹 **[Framer Motion](https://trpc.io/)** </br>
 🔹 **[AI](https://openai.com/api/)** </br>
 🔹 **[Capacitor](https://capacitorjs.com/)** </br>
 🔹 **[Automation](https://github.com/huginn/huginn)** </br>
 🔹 **[Game design](https://alexiamandeville.medium.com/the-game-design-resource-guide-e19bb237877)** </br>
+🔹 **[Rust]([https://alexiamandeville.medium.com/the-game-design-resource-guide-e19bb237877](https://www.rust-lang.org/))** </br>
 
 ### How to get in touch with me
 [![Gmail](https://img.shields.io/badge/Mail-robert+gh@nhg.design-232754?logo=gmail&logoColor=FFFFFF)](mailto:robert+gh@nhg.design)
