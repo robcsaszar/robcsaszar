@@ -29,17 +29,15 @@
 ### What I use
 [![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=FFFFFF)](https://visualstudio.microsoft.com/)
+[![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?logo=antigravity&logoColor=FFFFFF)](https://antigravity.google/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=FFFFFF)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=FFFFFF)](https://vercel.com/)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=FFFFFF)](https://cloudflare.com/)
+[![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?logo=hetzner&logoColor=FFFFFF)](https://hetzner.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=FFFFFF)](https://www.netlify.com/)
-[![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azuredevops&logoColor=FFFFFF)](https://azure.microsoft.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
-[![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1B72BE?logo=affinitydesigner&logoColor=FFFFFF)](https://affinity.serif.com/en-us/designer/)
-[![Opera](https://img.shields.io/badge/-Opera-FF1B2D?logo=opera&logoColor=FFFFFF)](https://www.opera.com/)
+[![Affinity Studio](https://img.shields.io/badge/-Affinity_Studio-a5ee73?logo=affinity&logoColor=000000)](https://www.affinity.studio/graphic-design-software)
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=FFFFFF)](https://bitwarden.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
-[![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=FFFFFF)](https://powerbi.microsoft.com/)
 [![Namecheap](https://img.shields.io/badge/-Namecheap-DE3723?logo=Namecheap&logoColor=FFFFFF)](https://www.namecheap.com/)
 [![Porkbun](https://img.shields.io/badge/-Porkbun-f27777?logo=Porkbun&logoColor=FFFFFF)](https://www.namecheap.com/)
 [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?logo=Obsidian&logoColor=FFFFFF)](https://www.obsidian.md/)
@@ -76,12 +74,15 @@
 🌿 Grammar is important </br>
 🌿 Spaces over tabs </br>
 
-### What I'm learning in 2025
+### What I'm delving into in 2026
+🔹 **[Claude](https://claude.ai/)** </br>
+🔹 **[n8n](https://n8n.io/)** </br>
+🔹 **[Capacitor](https://capacitorjs.com/)** </br>
 🔹 **[Astro](https://astro.build/)** </br>
+🔹 **[Svelte](https://svelte.dev/)** </br>
 🔹 **[Motion](https://motion.dev/)** </br>
 🔹 **[Web Animations](https://animations.dev/)** </br>
-🔹 **[Rust](https://www.rust-lang.org/)** </br>
-🔹 **[Capacitor](https://capacitorjs.com/)** </br>
+🔹 **SEO** </br>
 🔹 **Digital Marketing** </br>
 🔹 **Video Editing** </br>
 
