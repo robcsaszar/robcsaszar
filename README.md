@@ -12,6 +12,22 @@
 🔪 **Building [theSkullery](https://theskullery.net/) to track my cooking recipes.** </br>
 📚 **Tracking my books with [Hardcover](https://hardcover.app/@robcsaszar).** </br>
 
+### Claude Code skills I've published
+
+Small, single-purpose skills, generalized out of real dogfood use inside a live SvelteKit app rather than written speculatively.
+
+- **[warden](https://github.com/robcsaszar/warden)**: 7 skills scan repo, fix 1 issue, verify, stop. No commit, no CI minutes.
+- **[frontend-kit](https://github.com/robcsaszar/frontend-kit)**: 4 skills: SvelteKit, canvas, drag-drop, SVG anim. Build UI right first try.
+- **[ai-forge](https://github.com/robcsaszar/ai-forge)**: 8 skills build & grade Claude Code skills/agents. Create, judge, eval, ship.
+- **[context-docs](https://github.com/robcsaszar/context-docs)**: 3 skills write AGENTS.md, CONTEXT.md, DESIGN.md. Docs agent actually needs.
+- **[run-crucible](https://github.com/robcsaszar/run-crucible)**: audit skill, recon then adversarial check then verified findings only. No false positives survive.
+- **[run-security-audit](https://github.com/robcsaszar/run-security-audit)**: security skill scans code. XSS, SQLi, auth gaps found. File:line evidence + fix, not vibes.
+- **[be-research-assistant](https://github.com/robcsaszar/be-research-assistant)**: research skill flags confidence, kills hallucination, cites source. No auto-invoke, on purpose.
+- **[apply-writing](https://github.com/robcsaszar/apply-writing)**: writing skill drafts & humanizes text. Kills AI patterns, matches your voice.
+- **[apply-zetetic](https://github.com/robcsaszar/apply-zetetic)**: post-ship skill grills your work. 7 questions: confidence, blind spots, decay. No mercy.
+
+All install with `npx skills add robcsaszar/<repo>`, follow the [Agent Skills specification](https://agentskills.io/specification), and are MIT licensed.
+
 ### What I know
 [![JavaScript](https://img.shields.io/badge/-JavaScript-232754?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-232754?logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
