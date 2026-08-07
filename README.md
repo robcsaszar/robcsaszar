@@ -12,9 +12,9 @@
 🔪 **Building [theSkullery](https://theskullery.net/) to track my cooking recipes.** </br>
 📚 **Tracking my books with [Hardcover](https://hardcover.app/@robcsaszar).** </br>
 
-### AI skills I've published
+### Skills I've published
 
-Battle-tested, single-purpose skills, generalized out of real dogfood use rather than written speculatively.
+Battle-tested, (mostly) single-purpose skills, generalized out of real dogfood use rather than written speculatively.
 
 - **[tend](https://github.com/robcsaszar/tend)**: 7 skills scan repo, fix 1 issue, verify, stop. No commit, no CI minutes.
 - **[frontend-kit](https://github.com/robcsaszar/frontend-kit)**: 4 skills: SvelteKit, canvas, drag-drop, SVG anim. Build UI right first try.
@@ -32,6 +32,7 @@ All install with `npx skills add robcsaszar/<repo>`, follow the [Agent Skills sp
 [![JavaScript](https://img.shields.io/badge/-JavaScript-232754?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-232754?logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Astro](https://img.shields.io/badge/-Astro-1b1a42?logo=astro&logoColor=fff)](https://astro.build/)
+[![Svelte](https://img.shields.io/badge/-Svelte-1b1a42?logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
 [![SolidJS](https://img.shields.io/badge/-SolidJS-1b1a42?logo=solid&logoColor=456fa0)](https://www.solidjs.com/)
 [![Alpine.js](https://img.shields.io/badge/-Alpine.js-1b1a42?logo=alpinedotjs&logoColor=77c1d2)](https://alpinejs.dev/)
 [![CSS](https://img.shields.io/badge/-CSS-232754?logo=css&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -65,6 +66,7 @@ All install with `npx skills add robcsaszar/<repo>`, follow the [Agent Skills sp
 [![pnpm](https://img.shields.io/badge/-pnpm-f69220?logo=pnpm&logoColor=FFF)](https://pnpm.io/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=Supabase&logoColor=FFF)](https://supabase.com/)
 [![Turso](https://img.shields.io/badge/-Turso-4ff8d2?logo=Turso&logoColor=000)](https://turso.tech/)
+[![Turso](https://img.shields.io/badge/-Fly.io-7c3aed?logo=flydotio&logoColor=fff)](https://fly.io/)
 
 ### What I forgot
 ###### Proficient in the past, but realized my knowledge has since deprecated or altogether replaced with a newer solution.
