@@ -25,6 +25,7 @@ Battle-tested, (mostly) single-purpose skills, generalized out of real dogfood u
 - **[delve](https://github.com/robcsaszar/delve)**: research skill flags confidence, kills hallucination, cites source. No auto-invoke, on purpose.
 - **[prose](https://github.com/robcsaszar/prose)**: writing skill drafts & humanizes text. Kills AI patterns, matches your voice.
 - **[socratic](https://github.com/robcsaszar/socratic)**: post-ship skill grills your work. 7 questions: confidence, blind spots, decay. No mercy.
+- **[retrospective](https://github.com/robcsaszar/retrospective)**: reviews how the session ran, not what it shipped. Shape, context spend, wire-ins. No flattery.
 
 All install with `npx skills add robcsaszar/<repo>`, follow the [Agent Skills specification](https://agentskills.io/specification), and are MIT licensed.
 
