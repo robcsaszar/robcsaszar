@@ -17,6 +17,7 @@
 Battle-tested, (mostly) single-purpose skills, generalized out of real dogfood use rather than written speculatively.
 
 - **[tend](https://github.com/robcsaszar/tend)**: 7 skills scan repo, fix 1 issue, verify, stop. No commit, no CI minutes.
+- **[meridian](https://github.com/robcsaszar/meridian)**: planning skill charts fogbound work. Diverge honestly, decide one question at a time. Dead ends stay on the chart.
 - **[frontend-kit](https://github.com/robcsaszar/frontend-kit)**: 4 skills: SvelteKit, canvas, drag-drop, SVG anim. Build UI right first try.
 - **[ai-forge](https://github.com/robcsaszar/ai-forge)**: 8 skills build & grade AI skills/agents for any skills-compatible agent. Create, judge, eval, ship.
 - **[scaffold](https://github.com/robcsaszar/scaffold)**: 3 skills write AGENTS.md, CONTEXT.md, DESIGN.md. Docs agent actually needs.
